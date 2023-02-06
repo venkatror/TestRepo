@@ -1,0 +1,8 @@
+this is new file
+git clone url 
+git remote add origin url
+git push origin master 
+git init
+git restore --staged fileme
+git restore filename
+
