@@ -1,0 +1,52 @@
+name = "Venkat"
+print(name)
+name[0]
+name[::1]
+name[::-1]
+name[1:2]
+len(name)
+
+strings are immutable
+
+variable stores the particular value
+
+no need to provide data type while assigning value to the variables
+
+python strings are immutable 
+
+python is general purpose programming language
+
+dynamically typed language
+
+interpreter baseed language
+
+web applications
+software development
+data science applciations
+Artificial intelligence
+machine Learning projects
+data visualizatoin projects
+
+guio van rossum 
+
+great monty python circus
+
+invented in 1989
+java 1995
+
+sun microsystems --> oracle free version
+
+ide: interactive development environment 
+
+idle 
+anaconda
+pycharm
+jupytaer notebooks
+intellij
+thonny 
+atom
+spider
+wing 
+pyden 
+deric
+
